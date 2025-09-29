@@ -21,7 +21,8 @@ https://gist.github.com/aishatgtihuboperamm101/ddda7011957c6477793834484d030986
 ## Skills and Tools
 
 https://gist.github.com/aishatgtihuboperamm101/ddda7011957c6477793834484d030986
-
+- 📜 **Gists**: [My useful snippets](https://gist.github.com/aishatgtihuboperamm101)
+- https://gist.github.com/aishatgtihuboperamm101/ddda7011957c6477793834484d030986
 ```mermaid
 graph TD
     A[Frontend: React, HTML/CSS] --> B[Backend: Node.js, Python]
