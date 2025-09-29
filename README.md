@@ -9,7 +9,7 @@ https://gist.github.com/aishatgtihuboperamm101/ddda7011957c6477793834484d030986
 - 🌟 **Skills**: JavaScript, Python, Git, HTML/CSS
 - 📫 **Contacts**: aisha@tech.dev | [LinkedIn: linkedin.com/in/aishatgtihuboperamm101] | [X/Twitter: @aishatgtihub]
 - ⚡ **Fun Fact**: Created a simple app that generates random tech tips in seconds
-
+- 🌐 **Portfolio**: [aishatgtihuboperamm101.github.io](https://aishatgtihuboperamm101.github.io)
 ## My Projects
 - **WebTodoApp** — A modern todo list app built with React for efficient task management. [Link: github.com/aishatgtihuboperamm101/WebTodoApp]
 - **DataProcessorAPI** — Node.js API for handling and processing user data. [Link: github.com/aishatgtihuboperamm101/DataProcessorAPI]
