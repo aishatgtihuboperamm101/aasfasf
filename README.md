@@ -5,7 +5,7 @@
 
 ## About Me
 I'm a junior web developer with experience in creating interactive applications. Specializing in JavaScript, React, and Python. Enthusiastic about learning new technologies and contributing to open-source. Seeking internship opportunities.
-
+https://gist.github.com/aishatgtihuboperamm101/ddda7011957c6477793834484d030986
 - 🌟 **Skills**: JavaScript, Python, Git, HTML/CSS
 - 📫 **Contacts**: aisha@tech.dev | [LinkedIn: linkedin.com/in/aishatgtihuboperamm101] | [X/Twitter: @aishatgtihub]
 - ⚡ **Fun Fact**: Created a simple app that generates random tech tips in seconds
@@ -19,6 +19,9 @@ I'm a junior web developer with experience in creating interactive applications.
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=aishatgtihuboperamm101&theme=gruvbox&hide_border=true)
 
 ## Skills and Tools
+
+https://gist.github.com/aishatgtihuboperamm101/ddda7011957c6477793834484d030986
+
 ```mermaid
 graph TD
     A[Frontend: React, HTML/CSS] --> B[Backend: Node.js, Python]
